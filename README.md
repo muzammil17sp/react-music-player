@@ -4,7 +4,7 @@
 
 [![Music Palyer](https://www.linkpicture.com/q/screenbud-3ddf05be-bd3a-4c8f-b564-7b603a5f4edd.png)](https://www.linkpicture.com/view.php?img=LPic611af0933956088466944)
 
-This is a code repository for the Amazon clone 
+This is a code repository for the react music player
 
 In this project i created a simple react music player
 In  this project the features are discussed below
